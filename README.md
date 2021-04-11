@@ -15,4 +15,4 @@ Week 2:
 Got familiar with vectors and iterators
 Sorting algorithms - Bubble sort, merge sort, quick sort, insertion sort and selection sort
 Searching algorithms - Linear and Binary search
-Solved some problems on sorting on Codeche
+Solved some problems on sorting on Codechef
